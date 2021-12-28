@@ -8,5 +8,5 @@ Usage:
 ```
 To run this project follow the following steps:
 
-1. Clone the repository: **git clone https://github.com/KawaCode/Cloudflare-Bypass.git**
-2. Run follwing command: **node bypass.js https://example.com** '''
+1. Clone the repository: git clone https://github.com/KawaCode/Cloudflare-Bypass.git
+2. Run follwing command: node bypass.js https://example.com
