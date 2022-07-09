@@ -1,9 +1,10 @@
 # Cloudflare-Bypass
 This code is under MIT License and DOES NOT promote or encourage any illegal activities! The content in this document is provided solely for educational purposes and to create awareness!
 
+## Edit: this method is patched by Cloudflare
 
 Bypass any cloudflare site (5 seconds waiting)
-Edit: this method is patched by Cloudflare
+
 Usage:
 ```
 To run this project follow the following steps:
