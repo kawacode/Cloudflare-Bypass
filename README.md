@@ -3,7 +3,7 @@ This code is under MIT License and DOES NOT promote or encourage any illegal act
 
 
 Bypass any cloudflare site (5 seconds waiting)
-
+Edit: this method is patched by Cloudflare
 Usage:
 ```
 To run this project follow the following steps:
